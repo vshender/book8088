@@ -8,3 +8,4 @@ The original examples written in [NASM](https://www.nasm.us/) are [here](https:/
 2. [Arithmetic](02.arithmetic)
 3. [Variables](03.variables)
 4. [All your memory belongs to us](04.all-your-memory-belongs-to-us)
+5. [Advanced instructions](05.advanced-instructions)
